@@ -2,7 +2,7 @@
   <div class="container">
     <v-text-field
       v-model="search"
-      label="Pesquise um lugar"
+      label="Pesquise um lugar pelo título"
       variant="outlined"
       hide-details
       single-line
